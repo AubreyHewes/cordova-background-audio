@@ -7,6 +7,8 @@
     "repo": "https://github.com/AubreyHewes/cordova-background-audio.git",
     "issue": "https://github.com/AubreyHewes/cordova-background-audio/issues",
     "keywords": [
+        "cordova",
+        "phonegap",
         "background-audio",
         "background",
         "audio",
