@@ -21,8 +21,8 @@
 
 	<author>source@kingsquare.nl</author>
 
-	<repo>https://bitbucket.org/kingsquare/cordova-background-audio.git</repo>
-	<issue>https://bitbucket.org/kingsquare/cordova-background-audio/issues</issue>
+	<repo>https://github.com/AubreyHewes/cordova-background-audio.git</repo>
+	<issue>https://github.com/AubreyHewes/cordova-background-audio/issues</issue>
 
 	<engines>
 		<engine name="cordova" version=">=3.0.0" />
