@@ -11,11 +11,11 @@ This negates having to use location/other solutions that may not be accepted by 
 
 ###Local cordova build
 
-    cordova plugin add https://bitbucket.org/kingsquare/cordova-background-audio.git
+    cordova plugin add https://github.com/AubreyHewes/cordova-background-audio.git
     
 ###Local phonegap build
 
-    phonegap local plugin add https://bitbucket.org/kingsquare/cordova-background-audio.git
+    phonegap local plugin add https://github.com/AubreyHewes/cordova-background-audio.git
 
 ###Remote phonegap build (build.phonegap.com)
 
