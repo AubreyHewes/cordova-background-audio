@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "name": "nl.kingsquare.background-audio",
+    "description": "Background Audio support for iOS",
+    "license": "MIT",
+    "keywords": [
+        "cordova",
+        "phonegap",
+        "ios",
+        "background-audio",
+        "background",
+        "audio"
+    ],
+    "platforms": [
+        "ios"
+    ]
+}
