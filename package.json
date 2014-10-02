@@ -1,17 +1,25 @@
 {
     "version": "1.0.0",
-    "name": "nl.kingsquare.background-audio",
-    "description": "Background Audio support for iOS",
+    "name": "nl.kingsquare.cordova.background-audio",
+    "cordova_name": "background-audio",
+    "description": "\n\t\tBackground Audio for iOS\n\n\t\tWhen included within a cordova/phonegap build then the application will support background audio for iOS\n\t\tout of the box. No further action is necessary.\n\n\t\tThis negates having to use location/other solutions that may not be accepted by Apple.\n\t",
     "license": "MIT",
+    "repo": "https://github.com/AubreyHewes/cordova-background-audio.git",
+    "issue": "https://github.com/AubreyHewes/cordova-background-audio/issues",
     "keywords": [
-        "cordova",
-        "phonegap",
-        "ios",
         "background-audio",
         "background",
-        "audio"
+        "audio",
+        "media",
+        "ios"
     ],
     "platforms": [
         "ios"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
     ]
 }

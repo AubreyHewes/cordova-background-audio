@@ -23,6 +23,6 @@ This negates having to use location/other solutions that may not be accepted by 
 
 Add the following to your `config.xml`
 
-	<gap:plugin name="nl.kingsquare.background-audio" />
+	<gap:plugin name="nl.kingsquare.cordova.background-audio" />
 	
 
