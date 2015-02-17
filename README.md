@@ -27,10 +27,8 @@ OR
 
 ###Remote phonegap build (build.phonegap.com)
 
-**NOTE: The plugin has been submitted (2014-10-02). Currently it is not yet been accepted. Therefore the following will not work**
-
 Add the following to your `config.xml`
 
-	<gap:plugin name="nl.kingsquare.cordova.background-audio" />
+	<gap:plugin name="nl.kingsquare.background-audio" version="1.0.0" />
 	
 
