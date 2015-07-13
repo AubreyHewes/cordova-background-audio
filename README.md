@@ -9,26 +9,24 @@ This negates having to use location/other solutions that may not be accepted by 
 
 ##Installation
 
-###Local cordova build
-
     cordova plugin add nl.kingsquare.cordova.background-audio
+
+OR (TEMP cordova v5 npm) for latest npm version; due to cordova-repo not being updated; though always first repo:
+
+    cordova plugin add nl.kingsquare.cordova.background-audio@1.0.1
 
 OR
 
     cordova plugin add https://github.com/AubreyHewes/cordova-background-audio.git
 
-###Local phonegap build
+For the latest..
 
-    phonegap local plugin add nl.kingsquare.cordova.background-audio
+###Phonegap build (build.phonegap.com)
 
-OR
-
-    phonegap local plugin add https://github.com/AubreyHewes/cordova-background-audio.git
-
-###Remote phonegap build (build.phonegap.com)
+TODO: update phonegap with latest version
 
 Add the following to your `config.xml`
 
-	<gap:plugin name="nl.kingsquare.background-audio" version="1.0.1" />
+	<gap:plugin name="nl.kingsquare.background-audio" />
 	
 
