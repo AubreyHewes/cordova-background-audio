@@ -29,6 +29,6 @@ OR
 
 Add the following to your `config.xml`
 
-	<gap:plugin name="nl.kingsquare.background-audio" version="1.0.0" />
+	<gap:plugin name="nl.kingsquare.background-audio" version="1.0.1" />
 	
 
