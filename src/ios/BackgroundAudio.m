@@ -17,8 +17,6 @@
     if (!ok) {
         NSLog(@"%s setCategoryError=%@", __PRETTY_FUNCTION__, setCategoryError);
     }
-
-    [[UIApplication sharedApplication] beginReceivingRemoteControlEvents];
 }
 
 @end
