@@ -13,7 +13,6 @@
     BOOL ok;
     NSError *setCategoryError = nil;
     ok = [audioSession setCategory:AVAudioSessionCategoryPlayback
-                       withOptions:AVAudioSessionCategoryOptionMixWithOthers
                              error:&setCategoryError];
     if (!ok) {
         NSLog(@"%s setCategoryError=%@", __PRETTY_FUNCTION__, setCategoryError);
