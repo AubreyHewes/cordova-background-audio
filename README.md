@@ -1,3 +1,9 @@
+# No longer maintained
+
+Try another plugin for example (no guarantees):
+
+https://github.com/EddyVerbruggen/cordova-plugin-backgroundaudio/
+
 # Looking for contributors
 
 Hey there, I'm looking for active contributors to help move the development of this forward in a stable and timely fashion. This module was created for a specific project and I haven't had a need for this module in quite some time, so my personal time is not actively allocated to it. If you are interested in actively contributing, please contact me, Thanks!
